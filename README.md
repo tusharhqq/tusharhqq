@@ -2,7 +2,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [tusharhqq/tusharhqq](https://github.com/tusharhqq/tusharhqq) ([v0.1.1](https://github.com/tusharhqq/tusharhqq/releases/tag/v0.1.1), today) - 
+- [tusharhqq/tusharhqq](https://github.com/tusharhqq/tusharhqq) ([v0.1.2](https://github.com/tusharhqq/tusharhqq/releases/tag/v0.1.2), today) - 
 - [tusharhqq/nvim-config-super-duper-octo-fiesta](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta) ([v0.1.2](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta/releases/tag/v0.1.2), today) - My configuration files and tools
 - [tusharhqq/6666](https://github.com/tusharhqq/6666) ([v0.1.0](https://github.com/tusharhqq/6666/releases/tag/v0.1.0), today) - database, built by taking inspiration of tigerbeetle
 - [tusharhqq/rope-man](https://github.com/tusharhqq/rope-man) ([v0.1.6](https://github.com/tusharhqq/rope-man/releases/tag/v0.1.6), today) - i tried to build the Armin Ronacher (@mitsuhko) ropeman game in terminal using opentui, just an attempt
