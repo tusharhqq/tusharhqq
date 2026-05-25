@@ -5,7 +5,8 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "17 * * * *"
+  workflow_dispatch:
 
 jobs:
   markscribe:
