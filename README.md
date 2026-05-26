@@ -2,19 +2,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [tusharhqq/tusharhqq](https://github.com/tusharhqq/tusharhqq) ([v0.1.2](https://github.com/tusharhqq/tusharhqq/releases/tag/v0.1.2), today) - 
-- [tusharhqq/nvim-config-super-duper-octo-fiesta](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta) ([v0.1.2](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta/releases/tag/v0.1.2), today) - My configuration files and tools
-- [tusharhqq/6666](https://github.com/tusharhqq/6666) ([v0.1.0](https://github.com/tusharhqq/6666/releases/tag/v0.1.0), today) - database, built by taking inspiration of tigerbeetle
-- [tusharhqq/rope-man](https://github.com/tusharhqq/rope-man) ([v0.1.6](https://github.com/tusharhqq/rope-man/releases/tag/v0.1.6), today) - i tried to build the Armin Ronacher (@mitsuhko) ropeman game in terminal using opentui, just an attempt
+- [tusharhqq/tusharhqq](https://github.com/tusharhqq/tusharhqq) ([v0.1.2](https://github.com/tusharhqq/tusharhqq/releases/tag/v0.1.2), 1 day ago) - 
+- [tusharhqq/nvim-config-super-duper-octo-fiesta](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta) ([v0.1.2](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta/releases/tag/v0.1.2), 1 day ago) - My configuration files and tools
+- [tusharhqq/6666](https://github.com/tusharhqq/6666) ([v0.1.0](https://github.com/tusharhqq/6666/releases/tag/v0.1.0), 1 day ago) - database, built by taking inspiration of tigerbeetle
+- [tusharhqq/rope-man](https://github.com/tusharhqq/rope-man) ([v0.1.6](https://github.com/tusharhqq/rope-man/releases/tag/v0.1.6), 1 day ago) - i tried to build the Armin Ronacher (@mitsuhko) ropeman game in terminal using opentui, just an attempt
 
 #### 🔨 My recent Pull Requests
 
-- [Add jb alias for jj bookmark](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta/pull/8) on [tusharhqq/nvim-config-super-duper-octo-fiesta](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta) (today)
-- [Document Neovim config usage in README](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta/pull/7) on [tusharhqq/nvim-config-super-duper-octo-fiesta](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta) (today)
-- [fix jrt alias](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta/pull/6) on [tusharhqq/nvim-config-super-duper-octo-fiesta](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta) (today)
-- [added socket sfw by default](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta/pull/5) on [tusharhqq/nvim-config-super-duper-octo-fiesta](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta) (2 days ago)
-- [simplified the gcc setup and removed the unnecessary clang command,](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta/pull/4) on [tusharhqq/nvim-config-super-duper-octo-fiesta](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta) (3 days ago)
-- [fixed the smartcase search issues in nvim](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta/pull/3) on [tusharhqq/nvim-config-super-duper-octo-fiesta](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta) (5 days ago)
+- [Add jb alias for jj bookmark](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta/pull/8) on [tusharhqq/nvim-config-super-duper-octo-fiesta](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta) (1 day ago)
+- [Document Neovim config usage in README](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta/pull/7) on [tusharhqq/nvim-config-super-duper-octo-fiesta](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta) (1 day ago)
+- [fix jrt alias](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta/pull/6) on [tusharhqq/nvim-config-super-duper-octo-fiesta](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta) (1 day ago)
+- [added socket sfw by default](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta/pull/5) on [tusharhqq/nvim-config-super-duper-octo-fiesta](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta) (3 days ago)
+- [simplified the gcc setup and removed the unnecessary clang command,](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta/pull/4) on [tusharhqq/nvim-config-super-duper-octo-fiesta](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta) (4 days ago)
+- [fixed the smartcase search issues in nvim](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta/pull/3) on [tusharhqq/nvim-config-super-duper-octo-fiesta](https://github.com/tusharhqq/nvim-config-super-duper-octo-fiesta) (6 days ago)
 - [fix(python): shallow-copy OSAccess environ to prevent host dict aliasing](https://github.com/tusharhqq/monty-local/pull/1) on [tusharhqq/monty-local](https://github.com/tusharhqq/monty-local) (3 weeks ago)
 - [Fix async await exception propagation](https://github.com/pydantic/monty/pull/386) on [pydantic/monty](https://github.com/pydantic/monty) (1 month ago)
 - [Fix async await exception propagation](https://github.com/pydantic/monty/pull/383) on [pydantic/monty](https://github.com/pydantic/monty) (1 month ago)
