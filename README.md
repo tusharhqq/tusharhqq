@@ -42,4 +42,3 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 - [Fix async await exception propagation](https://github.com/pydantic/monty/pull/383) on [pydantic/monty](https://github.com/pydantic/monty) (1 month ago)
 - [Fix async await exception propagation](https://github.com/tusharhqq/monty/pull/1) on [tusharhqq/monty](https://github.com/tusharhqq/monty) (1 month ago)
 - [binary codec step 3](https://github.com/tusharhqq/6666/pull/1) on [tusharhqq/6666](https://github.com/tusharhqq/6666) (3 months ago)
-- [updated the link](https://github.com/DeepSourceCorp/globstar/pull/49) on [DeepSourceCorp/globstar](https://github.com/DeepSourceCorp/globstar) (1 year ago)
