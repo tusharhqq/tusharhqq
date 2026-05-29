@@ -1,4 +1,4 @@
-Founder of [openchaos](https://github.com/tusharhqq/openchaos). Creator of ropeman. Popular on [Twitter](https://x.com/tusharhq)
+Creator of [openchaos](https://github.com/tusharhqq/openchaos). Creator of ropeman. Popular on [Twitter](https://x.com/tusharhq)
 
 Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com/@bobo5), or [my site I guess](https://tushar-6666.vercel.app/)
 
