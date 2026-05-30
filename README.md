@@ -23,18 +23,18 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔭 Latest releases I've contributed to
 
-- [tusharhqq/automatic-disco](https://github.com/tusharhqq/automatic-disco) ([v0.1.1](https://github.com/tusharhqq/automatic-disco/releases/tag/v0.1.1), today) - another interpreter in go
-- [tusharhqq/config](https://github.com/tusharhqq/config) ([v0.1.4](https://github.com/tusharhqq/config/releases/tag/v0.1.4), today) - My configuration files and tools
-- [tusharhqq/tusharhqq](https://github.com/tusharhqq/tusharhqq) ([v0.1.2](https://github.com/tusharhqq/tusharhqq/releases/tag/v0.1.2), 4 days ago) - 
-- [tusharhqq/6666](https://github.com/tusharhqq/6666) ([v0.1.0](https://github.com/tusharhqq/6666/releases/tag/v0.1.0), 4 days ago) - database, built by taking inspiration of tigerbeetle
-- [tusharhqq/rope-man](https://github.com/tusharhqq/rope-man) ([v0.1.6](https://github.com/tusharhqq/rope-man/releases/tag/v0.1.6), 4 days ago) - i tried to build the Armin Ronacher (@mitsuhko) ropeman game in terminal using opentui, just an attempt
+- [tusharhqq/automatic-disco](https://github.com/tusharhqq/automatic-disco) ([v0.1.1](https://github.com/tusharhqq/automatic-disco/releases/tag/v0.1.1), 1 day ago) - another interpreter in go
+- [tusharhqq/config](https://github.com/tusharhqq/config) ([v0.1.4](https://github.com/tusharhqq/config/releases/tag/v0.1.4), 1 day ago) - My configuration files and tools
+- [tusharhqq/tusharhqq](https://github.com/tusharhqq/tusharhqq) ([v0.1.2](https://github.com/tusharhqq/tusharhqq/releases/tag/v0.1.2), 5 days ago) - 
+- [tusharhqq/6666](https://github.com/tusharhqq/6666) ([v0.1.0](https://github.com/tusharhqq/6666/releases/tag/v0.1.0), 5 days ago) - database, built by taking inspiration of tigerbeetle
+- [tusharhqq/rope-man](https://github.com/tusharhqq/rope-man) ([v0.1.6](https://github.com/tusharhqq/rope-man/releases/tag/v0.1.6), 5 days ago) - i tried to build the Armin Ronacher (@mitsuhko) ropeman game in terminal using opentui, just an attempt
 
 #### 🔨 My recent Pull Requests
 
-- [Add jb alias for jj bookmark](https://github.com/tusharhqq/config/pull/8) on [tusharhqq/config](https://github.com/tusharhqq/config) (4 days ago)
-- [Document Neovim config usage in README](https://github.com/tusharhqq/config/pull/7) on [tusharhqq/config](https://github.com/tusharhqq/config) (4 days ago)
-- [fix jrt alias](https://github.com/tusharhqq/config/pull/6) on [tusharhqq/config](https://github.com/tusharhqq/config) (4 days ago)
-- [added socket sfw by default](https://github.com/tusharhqq/config/pull/5) on [tusharhqq/config](https://github.com/tusharhqq/config) (6 days ago)
+- [Add jb alias for jj bookmark](https://github.com/tusharhqq/config/pull/8) on [tusharhqq/config](https://github.com/tusharhqq/config) (5 days ago)
+- [Document Neovim config usage in README](https://github.com/tusharhqq/config/pull/7) on [tusharhqq/config](https://github.com/tusharhqq/config) (5 days ago)
+- [fix jrt alias](https://github.com/tusharhqq/config/pull/6) on [tusharhqq/config](https://github.com/tusharhqq/config) (5 days ago)
+- [added socket sfw by default](https://github.com/tusharhqq/config/pull/5) on [tusharhqq/config](https://github.com/tusharhqq/config) (1 week ago)
 - [simplified the gcc setup and removed the unnecessary clang command,](https://github.com/tusharhqq/config/pull/4) on [tusharhqq/config](https://github.com/tusharhqq/config) (1 week ago)
 - [fixed the smartcase search issues in nvim](https://github.com/tusharhqq/config/pull/3) on [tusharhqq/config](https://github.com/tusharhqq/config) (1 week ago)
 - [fix(python): shallow-copy OSAccess environ to prevent host dict aliasing](https://github.com/tusharhqq/monty-local/pull/1) on [tusharhqq/monty-local](https://github.com/tusharhqq/monty-local) (3 weeks ago)
