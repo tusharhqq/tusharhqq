@@ -31,7 +31,6 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔨 My recent Pull Requests
 
-- [[codex] Rename files to emoji paths](https://github.com/tusharhqq/typescript-go/pull/1) on [tusharhqq/typescript-go](https://github.com/tusharhqq/typescript-go) (2 days ago)
 - [Add jb alias for jj bookmark](https://github.com/tusharhqq/config/pull/8) on [tusharhqq/config](https://github.com/tusharhqq/config) (1 week ago)
 - [Document Neovim config usage in README](https://github.com/tusharhqq/config/pull/7) on [tusharhqq/config](https://github.com/tusharhqq/config) (1 week ago)
 - [fix jrt alias](https://github.com/tusharhqq/config/pull/6) on [tusharhqq/config](https://github.com/tusharhqq/config) (1 week ago)
@@ -42,3 +41,4 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 - [Fix async await exception propagation](https://github.com/pydantic/monty/pull/386) on [pydantic/monty](https://github.com/pydantic/monty) (1 month ago)
 - [Fix async await exception propagation](https://github.com/pydantic/monty/pull/383) on [pydantic/monty](https://github.com/pydantic/monty) (1 month ago)
 - [Fix async await exception propagation](https://github.com/tusharhqq/monty/pull/1) on [tusharhqq/monty](https://github.com/tusharhqq/monty) (1 month ago)
+- [binary codec step 3](https://github.com/tusharhqq/6666/pull/1) on [tusharhqq/6666](https://github.com/tusharhqq/6666) (3 months ago)
