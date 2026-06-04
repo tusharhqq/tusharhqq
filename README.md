@@ -23,8 +23,8 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔭 Latest releases I've contributed to
 
-- [tusharhqq/automatic-disco](https://github.com/tusharhqq/automatic-disco) ([v0.1.1](https://github.com/tusharhqq/automatic-disco/releases/tag/v0.1.1), 5 days ago) - another interpreter in go
-- [tusharhqq/config](https://github.com/tusharhqq/config) ([v0.1.4](https://github.com/tusharhqq/config/releases/tag/v0.1.4), 5 days ago) - My configuration files and tools
+- [tusharhqq/automatic-disco](https://github.com/tusharhqq/automatic-disco) ([v0.1.1](https://github.com/tusharhqq/automatic-disco/releases/tag/v0.1.1), 6 days ago) - another interpreter in go
+- [tusharhqq/config](https://github.com/tusharhqq/config) ([v0.1.4](https://github.com/tusharhqq/config/releases/tag/v0.1.4), 6 days ago) - My configuration files and tools
 - [tusharhqq/tusharhqq](https://github.com/tusharhqq/tusharhqq) ([v0.1.2](https://github.com/tusharhqq/tusharhqq/releases/tag/v0.1.2), 1 week ago) - 
 - [tusharhqq/6666](https://github.com/tusharhqq/6666) ([v0.1.0](https://github.com/tusharhqq/6666/releases/tag/v0.1.0), 1 week ago) - database, built by taking inspiration of tigerbeetle
 - [tusharhqq/rope-man](https://github.com/tusharhqq/rope-man) ([v0.1.6](https://github.com/tusharhqq/rope-man/releases/tag/v0.1.6), 1 week ago) - i tried to build the Armin Ronacher (@mitsuhko) ropeman game in terminal using opentui, just an attempt
