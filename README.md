@@ -34,7 +34,7 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 - [Add jb alias for jj bookmark](https://github.com/tusharhqq/config/pull/8) on [tusharhqq/config](https://github.com/tusharhqq/config) (1 week ago)
 - [Document Neovim config usage in README](https://github.com/tusharhqq/config/pull/7) on [tusharhqq/config](https://github.com/tusharhqq/config) (1 week ago)
 - [fix jrt alias](https://github.com/tusharhqq/config/pull/6) on [tusharhqq/config](https://github.com/tusharhqq/config) (1 week ago)
-- [added socket sfw by default](https://github.com/tusharhqq/config/pull/5) on [tusharhqq/config](https://github.com/tusharhqq/config) (1 week ago)
+- [added socket sfw by default](https://github.com/tusharhqq/config/pull/5) on [tusharhqq/config](https://github.com/tusharhqq/config) (2 weeks ago)
 - [simplified the gcc setup and removed the unnecessary clang command,](https://github.com/tusharhqq/config/pull/4) on [tusharhqq/config](https://github.com/tusharhqq/config) (2 weeks ago)
 - [fixed the smartcase search issues in nvim](https://github.com/tusharhqq/config/pull/3) on [tusharhqq/config](https://github.com/tusharhqq/config) (2 weeks ago)
 - [fix(python): shallow-copy OSAccess environ to prevent host dict aliasing](https://github.com/tusharhqq/monty-local/pull/1) on [tusharhqq/monty-local](https://github.com/tusharhqq/monty-local) (1 month ago)
