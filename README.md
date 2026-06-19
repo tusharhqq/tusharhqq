@@ -23,8 +23,8 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔭 Latest releases I've contributed to
 
-- [tusharhqq/automatic-disco](https://github.com/tusharhqq/automatic-disco) ([v0.1.1](https://github.com/tusharhqq/automatic-disco/releases/tag/v0.1.1), 2 weeks ago) - another interpreter in go
-- [tusharhqq/config](https://github.com/tusharhqq/config) ([v0.1.4](https://github.com/tusharhqq/config/releases/tag/v0.1.4), 2 weeks ago) - My configuration files and tools
+- [tusharhqq/automatic-disco](https://github.com/tusharhqq/automatic-disco) ([v0.1.1](https://github.com/tusharhqq/automatic-disco/releases/tag/v0.1.1), 3 weeks ago) - another interpreter in go
+- [tusharhqq/config](https://github.com/tusharhqq/config) ([v0.1.4](https://github.com/tusharhqq/config/releases/tag/v0.1.4), 3 weeks ago) - My configuration files and tools
 - [tusharhqq/tusharhqq](https://github.com/tusharhqq/tusharhqq) ([v0.1.2](https://github.com/tusharhqq/tusharhqq/releases/tag/v0.1.2), 3 weeks ago) - 
 - [tusharhqq/6666](https://github.com/tusharhqq/6666) ([v0.1.0](https://github.com/tusharhqq/6666/releases/tag/v0.1.0), 3 weeks ago) - database, built by taking inspiration of tigerbeetle
 - [tusharhqq/rope-man](https://github.com/tusharhqq/rope-man) ([v0.1.6](https://github.com/tusharhqq/rope-man/releases/tag/v0.1.6), 3 weeks ago) - i tried to build the Armin Ronacher (@mitsuhko) ropeman game in terminal using opentui, just an attempt
@@ -35,8 +35,8 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 - [Document Neovim config usage in README](https://github.com/tusharhqq/config/pull/7) on [tusharhqq/config](https://github.com/tusharhqq/config) (3 weeks ago)
 - [fix jrt alias](https://github.com/tusharhqq/config/pull/6) on [tusharhqq/config](https://github.com/tusharhqq/config) (3 weeks ago)
 - [added socket sfw by default](https://github.com/tusharhqq/config/pull/5) on [tusharhqq/config](https://github.com/tusharhqq/config) (3 weeks ago)
-- [simplified the gcc setup and removed the unnecessary clang command,](https://github.com/tusharhqq/config/pull/4) on [tusharhqq/config](https://github.com/tusharhqq/config) (3 weeks ago)
-- [fixed the smartcase search issues in nvim](https://github.com/tusharhqq/config/pull/3) on [tusharhqq/config](https://github.com/tusharhqq/config) (4 weeks ago)
+- [simplified the gcc setup and removed the unnecessary clang command,](https://github.com/tusharhqq/config/pull/4) on [tusharhqq/config](https://github.com/tusharhqq/config) (4 weeks ago)
+- [fixed the smartcase search issues in nvim](https://github.com/tusharhqq/config/pull/3) on [tusharhqq/config](https://github.com/tusharhqq/config) (1 month ago)
 - [fix(python): shallow-copy OSAccess environ to prevent host dict aliasing](https://github.com/tusharhqq/monty-local/pull/1) on [tusharhqq/monty-local](https://github.com/tusharhqq/monty-local) (1 month ago)
 - [Fix async await exception propagation](https://github.com/pydantic/monty/pull/386) on [pydantic/monty](https://github.com/pydantic/monty) (1 month ago)
 - [Fix async await exception propagation](https://github.com/pydantic/monty/pull/383) on [pydantic/monty](https://github.com/pydantic/monty) (1 month ago)
