@@ -31,6 +31,9 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔨 My recent Pull Requests
 
+- [Implement OCaml ledger state machine](https://github.com/tusharhqq/6666/pull/4) on [tusharhqq/6666](https://github.com/tusharhqq/6666) (today)
+- [Replace ledger state machine with OCaml implementation](https://github.com/tusharhqq/6666/pull/3) on [tusharhqq/6666](https://github.com/tusharhqq/6666) (today)
+- [Copy pinned TigerBeetle source without ledger state machine](https://github.com/tusharhqq/6666/pull/2) on [tusharhqq/6666](https://github.com/tusharhqq/6666) (today)
 - [Add jb alias for jj bookmark](https://github.com/tusharhqq/config/pull/8) on [tusharhqq/config](https://github.com/tusharhqq/config) (1 month ago)
 - [Document Neovim config usage in README](https://github.com/tusharhqq/config/pull/7) on [tusharhqq/config](https://github.com/tusharhqq/config) (1 month ago)
 - [fix jrt alias](https://github.com/tusharhqq/config/pull/6) on [tusharhqq/config](https://github.com/tusharhqq/config) (1 month ago)
@@ -39,6 +42,3 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 - [fixed the smartcase search issues in nvim](https://github.com/tusharhqq/config/pull/3) on [tusharhqq/config](https://github.com/tusharhqq/config) (1 month ago)
 - [fix(python): shallow-copy OSAccess environ to prevent host dict aliasing](https://github.com/tusharhqq/monty-local/pull/1) on [tusharhqq/monty-local](https://github.com/tusharhqq/monty-local) (2 months ago)
 - [Fix async await exception propagation](https://github.com/pydantic/monty/pull/386) on [pydantic/monty](https://github.com/pydantic/monty) (2 months ago)
-- [Fix async await exception propagation](https://github.com/pydantic/monty/pull/383) on [pydantic/monty](https://github.com/pydantic/monty) (2 months ago)
-- [Fix async await exception propagation](https://github.com/tusharhqq/monty/pull/1) on [tusharhqq/monty](https://github.com/tusharhqq/monty) (2 months ago)
-- [binary codec step 3](https://github.com/tusharhqq/6666/pull/1) on [tusharhqq/6666](https://github.com/tusharhqq/6666) (5 months ago)
