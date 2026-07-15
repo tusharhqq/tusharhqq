@@ -23,7 +23,7 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔭 Latest releases I've contributed to
 
-- [tusharhqq/6666](https://github.com/tusharhqq/6666) ([v0.3.0](https://github.com/tusharhqq/6666/releases/tag/v0.3.0), 1 day ago) - database, built by taking inspiration of tigerbeetle
+- [tusharhqq/6666](https://github.com/tusharhqq/6666) ([v0.3.0](https://github.com/tusharhqq/6666/releases/tag/v0.3.0), 2 days ago) - database, built by taking inspiration of tigerbeetle
 - [tusharhqq/automatic-disco](https://github.com/tusharhqq/automatic-disco) ([v0.1.1](https://github.com/tusharhqq/automatic-disco/releases/tag/v0.1.1), 1 month ago) - another interpreter in go
 - [tusharhqq/config](https://github.com/tusharhqq/config) ([v0.1.4](https://github.com/tusharhqq/config/releases/tag/v0.1.4), 1 month ago) - My configuration files and tools
 - [tusharhqq/tusharhqq](https://github.com/tusharhqq/tusharhqq) ([v0.1.2](https://github.com/tusharhqq/tusharhqq/releases/tag/v0.1.2), 1 month ago) - 
@@ -31,9 +31,9 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔨 My recent Pull Requests
 
-- [Implement OCaml ledger state machine](https://github.com/tusharhqq/6666/pull/4) on [tusharhqq/6666](https://github.com/tusharhqq/6666) (1 day ago)
-- [Replace ledger state machine with OCaml implementation](https://github.com/tusharhqq/6666/pull/3) on [tusharhqq/6666](https://github.com/tusharhqq/6666) (1 day ago)
-- [Copy pinned TigerBeetle source without ledger state machine](https://github.com/tusharhqq/6666/pull/2) on [tusharhqq/6666](https://github.com/tusharhqq/6666) (1 day ago)
+- [Implement OCaml ledger state machine](https://github.com/tusharhqq/6666/pull/4) on [tusharhqq/6666](https://github.com/tusharhqq/6666) (2 days ago)
+- [Replace ledger state machine with OCaml implementation](https://github.com/tusharhqq/6666/pull/3) on [tusharhqq/6666](https://github.com/tusharhqq/6666) (2 days ago)
+- [Copy pinned TigerBeetle source without ledger state machine](https://github.com/tusharhqq/6666/pull/2) on [tusharhqq/6666](https://github.com/tusharhqq/6666) (2 days ago)
 - [Add jb alias for jj bookmark](https://github.com/tusharhqq/config/pull/8) on [tusharhqq/config](https://github.com/tusharhqq/config) (1 month ago)
 - [Document Neovim config usage in README](https://github.com/tusharhqq/config/pull/7) on [tusharhqq/config](https://github.com/tusharhqq/config) (1 month ago)
 - [fix jrt alias](https://github.com/tusharhqq/config/pull/6) on [tusharhqq/config](https://github.com/tusharhqq/config) (1 month ago)
