@@ -23,7 +23,7 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔭 Latest releases I've contributed to
 
-- [tusharhqq/6666](https://github.com/tusharhqq/6666) ([v0.3.0](https://github.com/tusharhqq/6666/releases/tag/v0.3.0), 3 days ago) - database, built by taking inspiration of tigerbeetle
+- [tusharhqq/6666](https://github.com/tusharhqq/6666) ([v0.3.0](https://github.com/tusharhqq/6666/releases/tag/v0.3.0), 1 week ago) - database, built by taking inspiration of tigerbeetle
 - [tusharhqq/automatic-disco](https://github.com/tusharhqq/automatic-disco) ([v0.1.1](https://github.com/tusharhqq/automatic-disco/releases/tag/v0.1.1), 1 month ago) - another interpreter in go
 - [tusharhqq/config](https://github.com/tusharhqq/config) ([v0.1.4](https://github.com/tusharhqq/config/releases/tag/v0.1.4), 1 month ago) - My configuration files and tools
 - [tusharhqq/tusharhqq](https://github.com/tusharhqq/tusharhqq) ([v0.1.2](https://github.com/tusharhqq/tusharhqq/releases/tag/v0.1.2), 1 month ago) - 
@@ -31,14 +31,14 @@ Checkout my [Twitter](https://x.com/tusharhq), [YouTube](https://www.youtube.com
 
 #### 🔨 My recent Pull Requests
 
-- [Implement OCaml ledger state machine](https://github.com/tusharhqq/6666/pull/4) on [tusharhqq/6666](https://github.com/tusharhqq/6666) (3 days ago)
-- [Replace ledger state machine with OCaml implementation](https://github.com/tusharhqq/6666/pull/3) on [tusharhqq/6666](https://github.com/tusharhqq/6666) (3 days ago)
-- [Copy pinned TigerBeetle source without ledger state machine](https://github.com/tusharhqq/6666/pull/2) on [tusharhqq/6666](https://github.com/tusharhqq/6666) (3 days ago)
+- [Implement OCaml ledger state machine](https://github.com/tusharhqq/6666/pull/4) on [tusharhqq/6666](https://github.com/tusharhqq/6666) (1 week ago)
+- [Replace ledger state machine with OCaml implementation](https://github.com/tusharhqq/6666/pull/3) on [tusharhqq/6666](https://github.com/tusharhqq/6666) (1 week ago)
+- [Copy pinned TigerBeetle source without ledger state machine](https://github.com/tusharhqq/6666/pull/2) on [tusharhqq/6666](https://github.com/tusharhqq/6666) (1 week ago)
 - [Add jb alias for jj bookmark](https://github.com/tusharhqq/config/pull/8) on [tusharhqq/config](https://github.com/tusharhqq/config) (1 month ago)
 - [Document Neovim config usage in README](https://github.com/tusharhqq/config/pull/7) on [tusharhqq/config](https://github.com/tusharhqq/config) (1 month ago)
 - [fix jrt alias](https://github.com/tusharhqq/config/pull/6) on [tusharhqq/config](https://github.com/tusharhqq/config) (1 month ago)
 - [added socket sfw by default](https://github.com/tusharhqq/config/pull/5) on [tusharhqq/config](https://github.com/tusharhqq/config) (1 month ago)
-- [simplified the gcc setup and removed the unnecessary clang command,](https://github.com/tusharhqq/config/pull/4) on [tusharhqq/config](https://github.com/tusharhqq/config) (1 month ago)
-- [fixed the smartcase search issues in nvim](https://github.com/tusharhqq/config/pull/3) on [tusharhqq/config](https://github.com/tusharhqq/config) (1 month ago)
+- [simplified the gcc setup and removed the unnecessary clang command,](https://github.com/tusharhqq/config/pull/4) on [tusharhqq/config](https://github.com/tusharhqq/config) (2 months ago)
+- [fixed the smartcase search issues in nvim](https://github.com/tusharhqq/config/pull/3) on [tusharhqq/config](https://github.com/tusharhqq/config) (2 months ago)
 - [fix(python): shallow-copy OSAccess environ to prevent host dict aliasing](https://github.com/tusharhqq/monty-local/pull/1) on [tusharhqq/monty-local](https://github.com/tusharhqq/monty-local) (2 months ago)
-- [Fix async await exception propagation](https://github.com/pydantic/monty/pull/386) on [pydantic/monty](https://github.com/pydantic/monty) (2 months ago)
+- [Fix async await exception propagation](https://github.com/pydantic/monty/pull/386) on [pydantic/monty](https://github.com/pydantic/monty) (3 months ago)
